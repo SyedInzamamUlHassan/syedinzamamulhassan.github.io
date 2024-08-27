@@ -1,0 +1,19 @@
+<!-- _layouts/profile.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header class="profile-header">
+        <div class="container">
+            <img src="{{ site.logo }}" alt="Profile Picture" class="profile-img">
+            <h1>{{ site.title }}</h1>
+        </div>
+    </header>
+    {{ content }}
+</body>
+</html>
