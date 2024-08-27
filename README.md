@@ -1,1 +1,10 @@
-# syedinzamamulhassan.github.io
+# Senio Data Analyst
+
+# Education
+
+
+# Work Experience
+
+
+
+# Projects
