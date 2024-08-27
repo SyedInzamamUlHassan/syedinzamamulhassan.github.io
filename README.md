@@ -2,7 +2,11 @@
 <head>
 </head>
 <body>
-    <header>
+    <header class="profile-header">
+        <div class="container">
+            <img src="https://raw.githubusercontent.com/SyedInzamamUlHassan/syedinzamamulhassan.github.io/main/DP.png" alt="Profile Picture" class="profile-img">
+            <h1>Syed Inzamam Ul Hassan</h1>
+        </div>
     </header>
 
     <section class="profile">
