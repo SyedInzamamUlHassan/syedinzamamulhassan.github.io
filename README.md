@@ -5,11 +5,7 @@
 </head>
 <body>
     <header>
-        <div class="container">
-            <img src="main/DP.png" alt="Profile Picture" class="profile-img">
-            <h1>Syed Inzamam Ul Hassan</h1>
-            <h3>Senior Data Analyst | MS Data Science</h3>
-        </div>
+        
     </header>
 
     <section class="profile">
