@@ -1,5 +1,7 @@
 title: Syed Inzamam Ul Hassan
-logo: /main/DP.png
+logo: ![Syed Inzamam Ul Hassan](main/DP.png){: style="border-radius: 50%; width: 150px;" }
+
+# Syed Inzamam Ul Hassan
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
