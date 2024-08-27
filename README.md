@@ -44,7 +44,7 @@
     <section class="experience">
         <div class="container">
             <h2>Experience</h2>
-            <h3>Data Analyst, Fauji Cement Company Ltd (Oct 2023 – Present)</h3>
+            <h3>Senior Data Analyst, Fauji Cement Company Ltd (Oct 2023 – Present)</h3>
             <ul>
                 <li>Developed comprehensive daily and weekly dispatch reports.</li>
                 <li>Performed detailed analysis of Maximum Retail Price data.</li>
