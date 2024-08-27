@@ -8,7 +8,7 @@
     <section class="profile">
         <div class="container">
             <h2>Professional Profile</h2>
-            <p>I am a postgraduate student pursuing an MS in Data Science and currently working as a Data Analyst at Fauji Cement Company Ltd. I have expertise in Data Analysis, Data Scraping, and building dashboards in Power BI and MS Excel. Additionally, I possess strong skills in Machine Learning.</p>
+            <p>I am a postgraduate student pursuing an MS in Data Science and currently working as a Senior Data Analyst at Fauji Cement Company Ltd. I have expertise in Data Analysis, Data Scraping, and building dashboards in Power BI and MS Excel. Additionally, I possess strong skills in Machine Learning.</p>
         </div>
     </section>
 
