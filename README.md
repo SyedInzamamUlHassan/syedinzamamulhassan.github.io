@@ -46,25 +46,25 @@
             <h2>Experience</h2>
             <h3>Senior Data Analyst, Fauji Cement Company Ltd (Aug 2024 – Present)</h3>
             <ul>
-                <li>Developed comprehensive daily and weekly dispatch reports.</li>
-                <li>Generated ad hoc analytical reports and presented them to stakeholders.</li>
-                <li>Created data-driven briefings for departmental meetings.</li>
-                <li>Performed quarterly analysis to support long-term planning using Power BI and Excel.</li>
+                <li>Develop comprehensive daily and weekly dispatch reports</li>
+                <li>Generate ad hoc analytical reports and presented them to stakeholders</li>
+                <li>Create data-driven briefings for departmental meetings</li>
+                <li>Performe quarterly analysis to support long-term planning using Power BI and Excel</li>
             </ul>
             <h3>Data Analyst, Fauji Cement Company Ltd (Oct 2023 – Aug 2024)</h3>
             <ul>
-                <li>Developed comprehensive daily and weekly dispatch reports.</li>
-                <li>Performed detailed analysis of Maximum Retail Price data.</li>
-                <li>Generated ad hoc analytical reports and presented them to stakeholders.</li>
-                <li>Created data-driven briefings for departmental meetings.</li>
-                <li>Performed quarterly analysis to support long-term planning using Power BI and Excel.</li>
+                <li>Develop comprehensive daily and weekly dispatch reports</li>
+                <li> Perform detailed analysis of Maximum Retail Price data</li>
+                <li>Generate ad hoc analytical reports and presented them to stakeholders</li>
+                <li>Create data-driven briefings for departmental meetings</li>
+                <li>Perform quarterly analysis to support long-term planning using Power BI and Excel</li>
             </ul>
             <h3>Data Science Intern, JMM Technologies Pvt Ltd (June 2022 – August 2022)</h3>
             <ul>
                 <li>Completed projects in Business Analytics using Power BI, SQL, Pandas, and Plotly Dash.</li>
-                <li>Designed an E-commerce website using Python Django framework.</li>
-                <li>Trained regression and classification models using Python.</li>
-                <li>Scraped data using Scrapy and Octoparse tools.</li>
+                <li>Designed an E-commerce website using Python Django framework</li>
+                <li>Trained regression and classification models using Python</li>
+                <li>Scraped data using Scrapy and Octoparse tools</li>
             </ul>
         </div>
     </section>
@@ -73,10 +73,10 @@
         <div class="container">
             <h2>Skills, Tools, and Software</h2>
             <ul>
-                <li>Programming Languages: C++, Python, SQL, R.</li>
-                <li>Microsoft Office: MS Word, MS Excel, MS PowerPoint.</li>
-                <li>Software: Jupyter Notebook, VS Code, Power BI.</li>
-                <li>Soft Skills: Teamwork, Leadership, Critical thinking, Problem Solving.</li>
+                <li>Programming Languages: C++, Python, SQL, R</li>
+                <li>Microsoft Office: MS Word, MS Excel, MS PowerPoint</li>
+                <li>Software: Jupyter Notebook, VS Code, Power BI</li>
+                <li>Soft Skills: Teamwork, Leadership, Critical thinking, Problem Solving</li>
             </ul>
         </div>
     </section>
@@ -98,7 +98,7 @@
             <ul>
                 <li>Languages: English (Professional), Urdu (Bilingual), Punjabi (Native)</li>
                 <li>Hobbies: Gardening, Evening Walk, Art</li>
-                <li>References available upon request.</li>
+                <li>References available upon request</li>
             </ul>
         </div>
     </section>
